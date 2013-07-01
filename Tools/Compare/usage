@@ -1,0 +1,11 @@
+for tagging all kinds : python compare.py file_1.txt file_2.txt
+
+for tagging ingredient : python compare.py file_1.txt file_2.txt I
+
+for tagging cooking action : python compare.py file_1.txt file_2.txt CA
+
+for tagging intermediate ingredient : python compare.py file_1.txt file_2.txt iI
+
+for tagging modified ingredient : python compare.py file_1.txt file_2.txt mI
+
+for tagging utensils : python compare.py file_1.txt file_2.txt U

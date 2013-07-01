@@ -1,0 +1,7 @@
+<CA>Heat</CA> <I>oil</I> in a large <U>skillet</U>. 
+<CA>Add</CA> <I>chicken pieces</I> and <CA>cook</CA> until lightly browned. 
+<CA>Remove</CA> <iI>chicken<iI>. 
+<CA>Add</CA> remaining ingredients, <CA>heating</CA> over medium Heat until well <CA>mixed</CA> and <CA>dissolved</CA>. 
+<CA>Add</CA> <I>chicken</I> and bring to a hard <CA>boil</CA>. 
+<CA>Reduce heat</CA> and <CA>simmer</CA> for 20 minutes. 
+<CA>Serve</CA> over hot <I>rice</I> and ENJOY. 
